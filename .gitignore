@@ -12,6 +12,8 @@ ENV/
 .env
 .env.*
 .terraform/
+*.tfstate
+*.tfvars
 !.env.example
 pip-wheel-metadata/
 *.egg-info/
